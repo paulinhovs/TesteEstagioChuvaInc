@@ -336,3 +336,29 @@ header {
     line-height: 25,78px;
     color: #725C5C;
 }
+
+main {
+    position: absolute;
+    width: 1059px;
+    height: 1382px;
+    left: 263px;
+    top: 88px;
+}
+
+footer {
+    position: absolute;
+    width: 1146px;
+    height: 181px;
+    left: 220px;
+    top: 1520px;
+
+}
+
+.image-footer {
+    margin-left: 14px;
+    position: absolute;
+    left: 1.22%;
+    margin-right: 4.01%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
