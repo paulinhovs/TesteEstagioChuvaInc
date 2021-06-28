@@ -298,3 +298,41 @@ aside {
     width: 220px;
     height: 2px;
 }
+
+header {
+    position: absolute;
+    width: 1146px;
+    height: 68px;
+    left: 220px;
+    top: 0px;
+    background: #FDF1EB;
+    display: flex;
+}
+
+.header-text1 {
+    width: 391px;
+    height: 16px;
+    margin-top: 5px;
+    position: absolute;
+    margin-left: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #725C5C;
+}
+
+.header-text2 {
+    width: 643px;
+    height: 26px;
+    margin-top: 23px;
+    position: absolute;
+    margin-left: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25,78px;
+    color: #725C5C;
+}
