@@ -68,3 +68,233 @@ aside {
     bottom: 0%;
     background-image: url('images/dewey\ 4.png');
 }
+
+.menu-apresent {
+    position: static;
+    width: 220px;
+    height: 35px;
+    left: 0px;
+    margin-top: 326px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-apresent-text {
+    width: 99px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-bottom: 25.71%;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra1 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
+
+.menu-comites {
+    position: static;
+    width: 220px;
+    height: 35px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-comites-text {
+    width: 99px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra2 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
+
+.menu-autores {
+    position: static;
+    width: 220px;
+    height: 35px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-autores-text {
+    width: 99px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra3 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
+
+.menu-eixos {
+    position: static;
+    width: 220px;
+    height: 33px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-eixos-text {
+    width: 110px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra4 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
+
+.menu-trabalhos {
+    position: static;
+    width: 220px;
+    height: 41px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    background: #FDF1EB;
+}
+
+.barra5 {
+    width: 5px;
+    height: 41px;
+    background: linear-gradient(#FFB354, #EE7A3A);
+    position: absolute;
+    margin-left: 0%;
+    margin-right: 97.73%;
+    margin-top: 0%;
+    margin-bottom: 5.71%;
+}
+
+.menu-trabalhos-text {
+    width: 110px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra6 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
+
+.menu-contato {
+    position: static;
+    width: 220px;
+    height: 33px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-contato-text {
+    width: 110px;
+    display: flex;
+    height: 19px;
+    margin-top: 7px;
+    margin-left: 24px;
+    font-weight: 500;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 18,75px;
+    flex-direction: column;
+    color: #725C5C;
+}
+
+.barra7 {
+    background: #E7E7E7;
+    flex-direction: column;
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7px;
+    margin-bottom: 0%;
+    width: 220px;
+    height: 2px;
+}
