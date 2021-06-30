@@ -572,6 +572,7 @@ main {
     text-align: right;
     letter-spacing: 0.05em;
     color: #ED7839;
+    margin-bottom: 5px;
 }
 
 .video {
@@ -692,8 +693,6 @@ main {
     margin-top: 73px;
 }
 
-
-
 footer {
     position: absolute;
     width: 1146px;
@@ -710,4 +709,101 @@ footer {
     margin-right: 4.01%;
     margin-top: 0%;
     margin-bottom: 0%;
+}
+
+.detalhes-do-trabalho {
+    position: absolute;
+    width: 242px;
+    height: 439px;
+    margin-left: 816px;
+    margin-top: 73px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+   border-radius: 3px;
+}
+
+.painel-header-detalhes {
+    width: 242px;
+    height: 45px;
+    position: absolute;
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.painel-header-text {
+    position: absolute;
+    width: 212px;
+    margin-top: 8px;
+    height: 25px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    color: #4E4E4E;
+}
+
+.scroll {
+    width: 3px;
+    height: 367px;
+    border-radius: 5px;
+    position: absolute;
+    background-color: #E7E7E7;
+    left: 233px;
+    top: 55px;
+    bottom: 17px;
+    cursor: pointer;
+}
+
+.scroll1 {
+    width: 3px;
+    height: 200px;
+    top: 55px;
+    bottom: 184px;
+    background: #BFBFBF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.detalhes-trabalho-text-space {
+    width: 212px;
+    height: 364px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 60px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.detalhes-trabalho-text {
+    position: absolute;
+    flex-direction: column;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    width: 212px;
+    height: 364px;
+    color: #5C5C5C;
+}
+
+.autores-front  {
+    font-size: 14px;
+}
+
+.linha-autores {
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 2%;
 }
