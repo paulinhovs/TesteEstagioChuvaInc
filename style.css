@@ -5,7 +5,7 @@ body {
 
 aside {
     width: 220px;
-    height: 1701px;
+    height: 2314px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
@@ -457,10 +457,10 @@ header {
 main {
     position: absolute;
     width: 1059px;
-    height: 1382px;
+    
     left: 263px;
     top: 88px;
-    background-color: #fff8f8;
+
 }
 
 .texto-titulo-main1 {
@@ -698,8 +698,7 @@ footer {
     width: 1146px;
     height: 181px;
     left: 220px;
-    top: 1520px;
-
+    top: 2133px;
 }
 
 .image-footer {
@@ -849,6 +848,7 @@ footer {
     display: flex;
     align-items: center;
     color: #4E4E4E;
+    margin-top: 15px;
 }
 
 .painel-header3 {
@@ -870,7 +870,7 @@ footer {
     padding: 0px;
     position: absolute;
     width: 1028px;
-    height: 114px;
+    height: 560px;
     left: 15px;
     top: 602px;
 }
@@ -878,7 +878,7 @@ footer {
 .resumo-text {
     position: static;
     width: 1028px;
-    height: 114px;
+    height: 560px;
     left: 0px;
     top: 0px;
     font-family: 'Quicksand', Arial, Helvetica, sans-serif;
@@ -895,15 +895,20 @@ footer {
     margin: 0px 0px;
 }
 
-#container {
-    display: none;
-    line-height: 23px;
+#ver-mais {
+    font-weight: bold;
+    color: #ED7839;
+    cursor: pointer;
 }
 
-.teste {
+.painel-topicos {
     position: absolute;
     width: 1058px;
-    height: 621px;
+    height: 1234px;
     left: 0px;
     top: 761px;
+    position: absolute;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
 }
