@@ -912,3 +912,75 @@ footer {
     box-sizing: border-box;
     border-radius: 3px;
 }
+
+.painel-header-topicos {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 761px;
+}
+
+.painel-header-topicos2 {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 761px;
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.painel-header-text2 {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #4E4E4E;
+    width: 1027px;
+    height: 25px;
+    margin-left: 16px;
+}
+
+.compartilhe-ideias {
+    position: absolute;
+    margin-left: 30.64%;
+    right: 29.51%;
+    top: 821px;
+    bottom: 57.74%;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #ED7839;
+}
+
+.icone1 {
+    position: absolute;
+    width: 50.26px;
+    height: 48.94px;
+    left: 402.5px;
+    top: 870px;
+}
+
+.icone2 {
+    position: absolute;
+    width: 50.26px;
+    height: 48.94px;
+    left: 504.5px;
+    top: 870px;
+}
+
+.icone3 {
+    position: absolute;
+    width: 50.26px;
+    height: 48.94px;
+    left: 608.5px;
+    top: 870px;
+}
