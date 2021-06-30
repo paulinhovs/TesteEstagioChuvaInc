@@ -807,3 +807,91 @@ footer {
     line-height: 18px;
     letter-spacing: 2%;
 }
+
+.resumo {
+    position: absolute;
+    width: 1058px;
+    height: 189px;
+    left: 0px;
+    top: 542px;
+}
+
+.painel-resumo {
+    position: absolute;
+    width: 1058px;
+    height: 189px;
+    left: 0px;
+    top: 542px;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.painel-header {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 542px;
+}
+
+.painel-header2 {
+    position: absolute;
+    width: 1028px;
+    left: 15px;
+    top: 552px;
+    bottom: 805px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #4E4E4E;
+}
+
+.painel-header3 {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 542px;
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.resumo-text-space {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 1028px;
+    height: 114px;
+    left: 15px;
+    top: 602px;
+}
+
+.resumo-text {
+    position: static;
+    width: 1028px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #5C5C5C;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
