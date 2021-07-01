@@ -984,3 +984,130 @@ footer {
     left: 608.5px;
     top: 870px;
 }
+
+.sabia-que-o-maior {
+    position: absolute;
+    left: 20.44%;
+    right: 20.44%;
+    top: 954px;
+    bottom: 50.23%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #595959;
+}
+
+.criar-topico-space {
+    position: absolute;
+    width: 133px;
+    height: 32px;
+    left: 463px;
+    top: 1007px;
+}
+
+.criar-topico-text {
+    position: absolute;
+    left: 47.21%;
+    right: 44.95%;
+    top: 1005px;
+    bottom: 48.37%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.criar-topico-button {
+    position: absolute;
+    width: 133px;
+    height: 32px;
+    left: 43.72%;
+    right: 43.72%;
+    top: 1007px;
+    bottom: 47.92%;
+    background-color: red;
+    background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    border-radius: 4px;
+}
+
+.icon-criar {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 477px;
+    top: 1015px;
+}
+
+.retangle1 {
+    position: absolute;
+    left: 45.7%;
+    right: 54.01%;
+    top: 1015px;
+    bottom: 48.27%;
+    background: #FFFFFF;
+    border-radius: 1px;
+    width: 3px;
+    height: 17px;
+}
+
+.retangle2 {
+    position: absolute;
+    width: 3px;
+    height: 17px;
+    left: 45.04%;
+    margin-left: 7px;
+    right: 54.67%;
+    top: 1015px;
+    bottom: 47.77%;
+    background: #FFFFFF;
+    border-radius: 1px;
+    transform: rotate(-90deg);
+}
+
+.divisoria {
+    position: absolute;
+    width: 1027px;
+    height: 0px;
+    left: 16px;
+    top: 1024px;
+    border: 1px solid #E7E7E7;
+}
+
+.card-topico-space1 {
+    position: absolute;
+    width: 1028px;
+    height: 148px;
+    left: 15px;
+    top: 1054px;
+}
+
+.card-topico-painel1 {
+    position: absolute;
+    left: 1.42%;
+    right: 1.51%;
+    top: 52.83%;
+    margin-top: 1054px;
+    width: 1028px;
+    height: 148px;
+    bottom: 39.75%;
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+.card-header-painel1 {
+    position: absolute;
+    width: 542.07px;
+    height: 38px;
+    left: 39.17px;
+    top: 1071px;
+}
