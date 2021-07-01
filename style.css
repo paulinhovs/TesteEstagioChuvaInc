@@ -1469,3 +1469,216 @@ footer {
     margin-top: 1382px;
     border-radius: 50%;
 }
+
+.space-resposta1 {
+    position: absolute;
+    width: 1028px;
+    height: 131px;
+    left: 15px;
+    top: 1404px;
+}
+
+.space2-resposta1 {
+    position: absolute;
+    left: 1.42%;
+    right: 1.51%;
+    top: 70.38%;
+    bottom: 23.06%;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 0px;
+    margin-top: 1404px;
+    width: 1028px;
+    height: 131px;
+}
+
+.img-resposta1 {
+    position: absolute;
+    left: 93.38%;
+    right: 3.7%;
+    top: 71.13%;
+    bottom: 27.71%;
+    width: 31px;
+    height: 23px;
+    margin-top: 1419px;
+}
+
+.resposta1-text1 {
+    position: absolute;
+    left: 3.61%;
+    right: 45.16%;
+    top: 71.28%;
+    bottom: 27.97%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #5C5C5C;
+    width: 542px;
+    height: 15px;
+    margin-top: 1422px;
+}
+
+.autor-resposta1 {
+    position: absolute;
+    left: 86.67%;
+    right: 9.74%;
+    top: 71.28%;
+    bottom: 27.82%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ED7839;
+    width: 38px;
+    height: 18px;
+    margin-top: 1422px;
+}
+
+.resposta1-text2 {
+    position: absolute;
+    left: 3.61%;
+    right: 3.7%;
+    top: 72.53%;
+    bottom: 24.81%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4D4D4D;
+    width: 981px;
+    height: 53px;
+    margin-top: 1447px;
+}
+
+.space-resposta2 {
+    position: absolute;
+    width: 981.62px;
+    height: 95px;
+    left: 38.19px;
+    top: 1553px;
+}
+
+.resposta2-text1 {
+    position: absolute;
+    left: 3.61%;
+    right: 45.16%;
+    top: 77.84%;
+    bottom: 21.4%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #5C5C5C;
+    width: 542px;
+    height: 15px;
+    margin-top: 1553px;
+}
+
+.resposta2-text2 {
+    position: absolute;
+    left: 3.61%;
+    right: 3.7%;
+    top: 79.1%;
+    bottom: 17.39%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4D4D4D;
+    width: 981px;
+    height: 70px;
+    margin-top: 1578px;
+}
+
+.space-resposta3 {
+    position: absolute;
+    width: 1028px;
+    height: 184px;
+    left: 15px;
+    top: 1666px;
+}
+
+.space2-resposta3 {
+    position: absolute;
+    left: 1.42%;
+    right: 1.51%;
+    top: 83.51%;
+    bottom: 7.27%;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 0px;
+    width: 1028px;
+    height: 184px;
+    margin-top: 1666px;
+}
+
+.img-resposta3 {
+    position: absolute;
+    left: 93.38%;
+    right: 3.7%;
+    top: 84.26%;
+    bottom: 14.58%;
+    width: 31px;
+    height: 23px;
+    margin-top: 1681px;
+}
+
+.resposta3-text1 {
+    position: absolute;
+    left: 3.61%;
+    right: 45.16%;
+    top: 84.41%;
+    bottom: 14.84%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #5C5C5C;
+    width: 542px;
+    height: 15px;
+    margin-top: 1684px;
+}
+
+.autor-resposta3 {
+    position: absolute;
+    left: 86.92%;
+    right: 7.88%;
+    top: 84.41%;
+    bottom: 14.69%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ED7839;
+    width: 55px;
+    height: 18px;
+    margin-top: 1684px;
+}
+
+.resposta3-text2 {
+    position: absolute;
+    left: 3.61%;
+    right: 3.7%;
+    top: 85.66%;
+    bottom: 9.07%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4D4D4D;
+    width: 981px;
+    height: 105px;
+    margin-top: 1709px;
+}
+
