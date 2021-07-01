@@ -520,15 +520,15 @@ main {
 
 .favorite-button {
     position: absolute;
-left: 91.31%;
-right: 4.63%;
-top: 0%;
-bottom: 97.76%;
-cursor: pointer;
-background: #ED7839;
-border-radius: 4px;
-width: 43px;
-height: 31px;
+    left: 91.31%;
+    right: 4.63%;
+    top: 0%;
+    bottom: 97.76%;
+    cursor: pointer;
+    background: #ED7839;
+    border-radius: 4px;
+    width: 43px;
+    height: 31px;
 
 }
 
@@ -1772,3 +1772,4 @@ footer {
     height: 53px;
     margin-top: 1892px;
 }
+
