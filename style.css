@@ -520,22 +520,25 @@ main {
 
 .favorite-button {
     position: absolute;
-    left: 91.31%;
-    right: 4.63%;
-    top: 0%;
-    bottom: 97.85%;
-    background: #ED7839;
-    border-radius: 4px;
-    cursor: pointer;
+left: 91.31%;
+right: 4.63%;
+top: 0%;
+bottom: 97.76%;
+cursor: pointer;
+background: #ED7839;
+border-radius: 4px;
+width: 43px;
+height: 31px;
+
 }
 
 .favorite-img {
-        width: 25px;
-        height: 25px;
-        margin-left: 8px;
-        position: absolute;
-        margin-right: 5px;
-        margin-top: 3px;
+    width: 25px;
+    height: 25px;
+    margin-left: 8px;
+    position: absolute;
+    margin-right: 5px;
+    margin-top: 3px;
 }
 
 .doi-button {
@@ -547,6 +550,8 @@ main {
     background: #ED7839;
     border-radius: 4px;
     cursor: pointer;
+    width: 43px;
+    height: 31px;
 }
 
 .doi-button-img {
@@ -1682,3 +1687,88 @@ footer {
     margin-top: 1709px;
 }
 
+.space-resposta4 {
+    position: absolute;
+    width: 1028px;
+    height: 131px;
+    left: 15px;
+    top: 1849px;
+}
+
+.space2-resposta4 {
+    position: absolute;
+    left: 1.42%;
+    right: 1.51%;
+    top: 92.68%;
+    bottom: 0.75%;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 0px 0px 4px 4px;
+    width: 1028px;
+    height: 131px;
+    margin-top: 1849px;
+}
+
+.img-resposta4 {
+    position: absolute;
+    left: 93.38%;
+    right: 3.7%;
+    top: 93.43%;
+    bottom: 5.4%;
+    width: 31px;
+    height: 23px;
+    margin-top: 1864px;
+}
+
+.resposta4-text1 {
+    position: absolute;
+    left: 3.61%;
+    right: 45.16%;
+    top: 93.58%;
+    bottom: 5.66%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #5C5C5C;
+    width: 542px;
+    height: 15px;
+    margin-top: 1867px;
+}
+
+.autor-resposta4 {
+    position: absolute;
+    left: 86.92%;
+    right: 7.88%;
+    top: 93.58%;
+    bottom: 5.51%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #ED7839;
+    width: 55px;
+    height: 18px;
+    margin-top: 1867px;
+}
+
+.resposta4-text2 {
+    position: absolute;
+    left: 3.61%;
+    right: 3.7%;
+    top: 94.84%;
+    bottom: 2.51%;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4D4D4D;
+    width: 981px;
+    height: 53px;
+    margin-top: 1892px;
+}
